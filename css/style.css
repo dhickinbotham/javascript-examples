@@ -1,0 +1,21 @@
+h1{ font-size: 1.5em; font-weight: 500;}
+table {
+  width: 100%
+}
+td {
+  background: #999;
+  color: white;
+  height: 90px;
+  text-align: center;
+  font-size: 3em;
+  font-family: helvetica;
+}
+
+/* 
+// far right column red 
+... { background: #F00 }
+// last row blue
+... { background: #00F }
+// last cell in last row purple
+... { background: #808 }
+*/
